@@ -1,0 +1,21 @@
+.nav2st li a{
+    color: #0f4d6b;
+}
+.colorf{
+    background-color: #df1616; 
+    color: white; 
+    padding: 5px;
+    border-radius: 50%;
+}
+.nav2st li{
+    border-right: 1px solid lightgrey;
+}
+.apply-section{
+    background-image: url(img/bg-event.webp);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fontre{
+    font-size: 8rem;
+}
