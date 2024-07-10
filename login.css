@@ -8,3 +8,7 @@ body::after{
     z-index: 1;
     background: #fffdfda1;
 }
+.nav2st li a {
+    color: #0f4d6b;
+    z-index: 3;
+}
